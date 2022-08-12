@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+	About|Dontay Hears
+	</title>
+</head>
+<body>
+<div id="page-wrap">
+<div class="topnav">
+  <a href="#home">Home</a>
+  <a class="active" href="#about">About</a>
+</div>
+
+<h1 class="header" style="font-family:verdana;">MORE ABOUT ME</h1>
+
+<p>
+	Hello again Friends! Can I tell you a little more about myself? <br> 
+
+	
+		
+</p>
+
+<p>
+<a href="https://www.uplistics.com"> <img src="https://www.uplistics.com/uploads/b/9e595cdc66c9bd812eb3642e3768b6731784f31a90bd720ad02376e4ca84f5c6/2022-06-07_20-26-15_1654647995.png?width=1200"
+width="450"
+height="450"
+/>
+</a>
+</p>
+
+<p>
+<h4>
+Here are just a <em>FEW</em> things that I can never live without: </h4> 
+<ol style="list">
+	<li>Faith</li>
+	<dd>I would not be here without my Faith in God and my belief in myself.</dd>
+	<li>Food</li>
+	<dd>I like to think of myself as a Chef, a Food Connoisseur, and a Professional Food Taster. If I had to choose a favorite dish, it would be either Ackee & Saltfish or Jerk Chicken from Jamaica.</dd>
+	<li>Family</li>
+	<dd>I love to travel with my family and hear stories from the past while creating unforgettable memories.</dd>
+	<li>Football</li>
+	<dd>I love this game; it taught me how to live life.</dd>
+	<li>Fitness</li>
+	<dd>I love moving my body; lifting weights and dancing bachata. <a href="https://www.uplistics.com/">Visit Uplistics.com</a></dd>
+</ol> <br>
+
+</p>
+<button class="link1"> Visit my Fitness Page </button> <br> <br>
+
+<em> "Movement is medicine, and just a few minutes of it can make a big difference; physically, mentally and emotionally." <em>
+
+
+
+
+</body>
+
+<style>
+
+	ol {
+		padding: 15px;
+		list-style-type: circle;
+		list-style-position: outside;
+	}
+	#page-wrap {
+		width: 400px;
+		margin: 0 auto;
+	}
+	
+	.header {
+		padding-left: 50px;
+		}
+
+	.link1 {
+		background-color: rgb(200,0,0); 
+		color: rgb(255, 255, 255);
+		border: none; 
+		border-radius: 4px;
+		cursor: pointer;
+		margin-left: 150px;
+		position: ;
+		transition: opacity 0.15s;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px; 
+		vertical-align: top;
+		text-align: center;
+		}
+
+</html>
