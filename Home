@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+PRE-WORK PROJECT</title>
+</head>
+
+<body>
+<div id="page-wrap">
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+</div>
+<h1 style="font-family:verdana;"> Hi, I'm Dontay!</h1>
+<img src="https://yt3.ggpht.com/a/AATXAJw91COr1_bXGdHbhHI8XzKeF-mQQqnoz4IgOA=s900-c-k-c0xffffffff-no-rj-mo"
+width="350"
+height="350"
+/>
+
+
+
+<p style="font-family:verdana;"> My name is Dontay Hears. I am currently studying to become a Full Stack Software Engineer at <strong>Per Scholas.</strong></p>
+
+<p>I'm from the DMV. I was born in Washington, D.C. and raised throughout Maryland. After High School, I flew down to good ole' Myrtle Beach, South Carolina to study Exercise and Sport Science while playing D1 Football. South Carolina has some of the best sunsets, restaurants, and people in the entire world. Although, I am pretty sure you are amazing too!
+
+<p><strong>Where are you from?</strong> </p>
+	<input placeholder="city">
+	<br>
+	<input placeholder="state">
+	<br>
+	<input placeholder="country">
+
+<br>
+<br>
+<p> <strong>Did I mention that my school was just 15 mins from the beach?</strong>
+</p>
+
+<iframe width="400" height="315"
+src="https://www.youtube.com/embed/3F5eZjL8ZoQ?autoplay=1&mute=1">
+</iframe>
+
+<p class="video-title">
+DONTAY HEARS | PRO BEACH WORKOUT | DB DRILLS
+</p>
+
+<p class="video-stats">
+3.4M views &#183; 6 months ago
+</p>
+
+<p class="video-author">
+Dontay Hears &check;
+</p>
+
+<p class="video-description">
+I love traveling. The only things that I love more than traveling are my Faith, my Food, my Family, and Football. I've travelled to several cities around the United States while playing football and one of my favorite things to do while travelling is taste the food in that area. One of my most savory memories is enjoying Idaho potatoes the night before smashing Idaho's collegiate football team in the Kibbie Dome. 
+</p>
+
+
+
+<button class="subscribe-button">
+READ MORE
+</button>
+<br>
+<br>
+<body>
+
+	<style>
+		table, th, td {
+			border:1px solid black;
+		}
+
+	</style>
+	<table>
+		<tr>
+			<th>Country</th>
+			<th>State</th>
+			<th>Things to Do</th>
+		</tr>
+		<tr>
+			<td>USA</td>
+			<td>South Carolina</td>
+			<td>Visit CCU, my Alma Mater!</td>
+		</tr>
+		<tr>
+			<td>USA</td>
+			<td>Idaho</td>
+			<td>Try Scalloped Idaho Potatoes</td>
+
+		</tr>
+		<tr>
+			<td>USA</td>
+			<td>Florida</td>
+			<td>Key West Sponge Market!</td>
+
+		</tr>
+		<tr>
+			<td>USA</td>
+			<td>Virginia</td>
+			<td>Don't Go to Liberty University!</td>
+
+		</tr>
+		<tr>
+			<td>USA</td>
+			<td>Alabama</td>
+			<td>Dextor Parsonage Museum</td>
+
+		</tr>
+	</table>
+
+
+</body>
+
+
+</div>
+
+
+<style>
+
+	#page-wrap {
+		width: 400px;
+		margin: 0 auto;
+	}
+
+	.video-title {
+		font-family: Arial;
+		Font-size: 25px;
+		font-weight: bold;
+		width: 400px;
+		line-height: 26px;
+		margin-bottom: 5px;
+
+	}
+	.video-stats {
+		font-family: Arial;
+		font-size: 12px;
+		color: rgb(96, 96, 96);
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	
+	.video-author {
+		font-family: Arial;
+		color: rgb(96,96,96);
+		font-size: 14px;
+		margin-top: 0px;
+		margin-bottom: 20px;
+
+	}	
+	
+	.video-description {
+		font-family: Arial;
+		color: rgb(96,96,96);
+		font-size: 14px;
+		width: 400px;
+		line-height: 18px;
+		margin-top: 0px;
+
+	}
+
+		}
+
+	.heading {
+		font-family: Arial;
+		font-size: 100px;
+
+
+		}
+
+	.subscribe-button {
+		background-color: rgb(200,0,0); 
+		color: rgb(255, 255, 255);
+		border: none; 
+		border-radius: 4px;
+		cursor: pointer;
+		margin-left: 150px;
+		position: ;
+		transition: opacity 0.15s;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px; 
+		vertical-align: top;
+		text-align: center;
+
+		}
+
+	.subscribe-button:hover {
+		opacity: 1.5;
+		background-color: rgb:150,0,0);
+	
+	}
+	.subscribe-button:active {
+		opacity: 0.5;
+	
+	}
+
+	
+</style>
+
